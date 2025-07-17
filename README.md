@@ -1,0 +1,1 @@
+Basic recipe website for practice (odin project tutorial)
